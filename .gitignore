@@ -1,0 +1,8 @@
+# Binaries for programs and plugins
+main
+quickjs_read
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
